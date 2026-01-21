@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "valves": {
+    "V001": {
+      "enabled": false,
+      "desiredState": null,
+      "updatedAt": 1768967581807
+    },
+    "V002": {
+      "enabled": true,
+      "desiredState": "CLOSE",
+      "updatedAt": 1768967617789
+    },
+    "V005": {
+      "enabled": true,
+      "desiredState": "OPEN",
+      "updatedAt": 1768967609243
+    }
+  }
+}
